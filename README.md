@@ -1,7 +1,8 @@
 May 9, 2025
 
-> IMPORTANT
-> ### This repository has been archived and superseded by the new Collections Description repository during a structural realignment of the TDWG organization.
+> ### IMPORTANT
+> **This repository has been archived and superseded by the new Collections Description repository during a structural realignment of the TDWG organization.**
+> ** New Repository: <https://github.com/tdwg/cd> **
 
 # Collection Descriptions Interest Group
 
