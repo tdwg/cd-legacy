@@ -1,5 +1,8 @@
 May 9, 2025
 
+> IMPORTANT
+> # This repository has been archived and superseded by the new Collections Description repository during a structural realignment of the TDWG organization.
+
 # Collection Descriptions Interest Group
 
 This was the **original** repository for the Collection Descriptions Interest Group during the development phase for the Latimer Core collection description standard. Should you, due to some reason, want to query this repository, be aware that the latest version of its contents can be found in the review branch.
